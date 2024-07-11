@@ -31,11 +31,11 @@ cd frontend/
 npm run dev
 ```
 
-## 8. Interact with Frontend
+## 7. Interact with Frontend
 Go to a broswer and hit this url:<br>
 [http://localhost:5173](http://localhost:5173)
 
-## 9. Interact with Backend Application directly
+## 8. Interact with Backend Application directly
 
 ### a. Using Swagger UI
 * Go to a broswer and hit this url:<br>
